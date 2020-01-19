@@ -57,7 +57,9 @@ var animalObject =  [
         type: "Lion"
         alive: false,
         age: "9"
-
+    }
+];
+for (var i = 0;1< animalObject.length; i++) {
     console.log(animalObject[i].age)
     console.log(animalObject[i].alive)
     }
